@@ -1,0 +1,82 @@
+/* Reset de estilos básicos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #fff;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estilo del encabezado */
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 15px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Secciones generales */
+section {
+    padding: 20px;
+    margin: 20px 0;
+    max-width: 600px;
+    text-align: center;
+}
+
+/* Títulos */
+h1, h2 {
+    color: #fff;
+}
+
+/* Estilo de la lista de enlaces */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo del pie de página */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
