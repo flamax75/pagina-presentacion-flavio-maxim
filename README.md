@@ -17,5 +17,5 @@ Esta es una página de presentación tipo currículum de Maxim Capalnas Flaviu.
 
 ---
 
-Cualquier duda o sugerencia, contáctame.
+Cualquier duda o sugerencia, contáctame mediante el correo flaviomaxim@gmail.com
 
